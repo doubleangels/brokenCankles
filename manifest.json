@@ -1,0 +1,21 @@
+{
+  "name": "BrokenCankles",
+  "version_number": "1.0.1",
+  "website_url": "",
+  "description": "A modpack that will help you not break your cankles.",
+  "dependencies": [
+    "2018-LC_API-2.1.1",
+    "BepInEx-BepInExPack-5.4.2100",
+    "bizzlemip-BiggerLobby-2.4.0",
+    "Rozebud-FOV_Adjust-1.1.1",
+    "FlipMods-LetMeLookDown-1.0.1",
+    "Pooble-LCBetterSaves-1.4.0",
+    "Thorlar-HealthStation-1.0.1",
+    "Giltong-LethalCompanyDRP-1.3.0",
+    "Suskitech-AlwaysHearActiveWalkies-1.4.2",
+    "Renegades-FlashlightToggle-1.3.1",
+    "Krayken-DynamicDeadline-1.1.0",
+    "x753-More_Suits-1.3.2",
+    "ViViKo-ViViKoCosmetics-1.0.0"
+  ]
+}
