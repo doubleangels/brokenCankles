@@ -22,3 +22,7 @@ The modpack can be found [here](https://thunderstore.io/c/lethal-company/p/Broke
 ### v1.0.3
 
 - Added link to modpack listing in README.
+
+### v1.0.4
+
+- Modpack ready for public play!
