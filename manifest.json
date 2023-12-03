@@ -1,6 +1,6 @@
 {
   "name": "BrokenCankles",
-  "version_number": "1.0.4",
+  "version_number": "1.0.5",
   "website_url": "https://github.com/doubleangels/brokenCankles/tree/main",
   "description": "A modpack that will help you not break your cankles.",
   "dependencies": [
@@ -16,6 +16,7 @@
     "Renegades-FlashlightToggle-1.3.1",
     "Krayken-DynamicDeadline-1.1.0",
     "x753-More_Suits-1.3.2",
-    "ViViKo-ViViKoCosmetics-1.0.0"
+    "ViViKo-ViViKoCosmetics-1.0.0",
+    "anormaltwig-LateCompany-1.0.4"
   ]
 }

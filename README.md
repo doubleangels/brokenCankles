@@ -26,3 +26,7 @@ The modpack can be found [here](https://thunderstore.io/c/lethal-company/p/Broke
 ### v1.0.4
 
 - Modpack ready for public play!
+
+### v1.0.5
+
+- Added LateCompany mod so people can join mid-game.
