@@ -12,3 +12,7 @@ A modpack that will help you not break your cankles.
 
 - Added more suits.
 - README changes.
+
+### v1.0.2
+
+- Added Github repository.
