@@ -1,7 +1,7 @@
 {
   "name": "BrokenCankles",
   "version_number": "1.0.1",
-  "website_url": "",
+  "website_url": "https://github.com/doubleangels/brokenCankles/tree/main",
   "description": "A modpack that will help you not break your cankles.",
   "dependencies": [
     "2018-LC_API-2.1.1",
