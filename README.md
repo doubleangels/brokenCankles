@@ -30,3 +30,15 @@ The modpack can be found [here](https://thunderstore.io/c/lethal-company/p/Broke
 ### v1.0.5
 
 - Added LateCompany mod so people can join mid-game.
+
+### v1.0.6
+
+- Added ShipLobby and removed LateCompany.
+- Added ReservedFlashlightSlot and removed FlashlightToggle.
+- Added HDLethalCompany.
+- Added ReservedWalkieSlot.
+- Added BetterStamina.
+- Added HornMoan.
+- Added QuickRestart.
+- Added FemboysAndFirearms.
+- Removed ViViKoCosmetics.
